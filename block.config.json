@@ -1,0 +1,21 @@
+{
+  "name": "t1Plugin",
+  "type": "package",
+  "blockId": "L7jw6V5KFlrCG93VT0ix0",
+  "source": {
+    "https": "https://github.com/devthalal/t1Plugin.git",
+    "ssh": "git@github.com:devthalal/t1Plugin.git",
+    "branch": "block_t1Plugin"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "t1p_fn": {
+      "directory": "t1p_fn"
+    }
+  }
+}
