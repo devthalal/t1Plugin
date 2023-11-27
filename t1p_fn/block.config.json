@@ -3,8 +3,8 @@
   "name": "t1p_fn",
   "type": "function",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/devthalal/t1Plugin.git",
+    "ssh": "git@github.com:devthalal/t1Plugin.git",
     "branch": "block_t1p_fn"
   },
   "parentBlockIDs": [
