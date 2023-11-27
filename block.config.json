@@ -15,7 +15,10 @@
   "repoType": "mono",
   "dependencies": {
     "t1p_fn": {
-      "directory": "t1p_fn"
+      "directory": "t1p_fn",
+      "versionId": "6ylrEG9qfiYOxwFqSSYZ6",
+      "version": "0.0.1"
     }
-  }
+  },
+  "version": "0.0.1"
 }
